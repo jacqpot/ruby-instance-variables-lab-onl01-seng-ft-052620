@@ -7,7 +7,7 @@ end
   
 end
 
-lassie = Dog.new
+
 
 
 
